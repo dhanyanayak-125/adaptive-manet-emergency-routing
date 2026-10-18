@@ -33,4 +33,4 @@ The data was collected using the NS-3 **FlowMonitor** utility tracking communica
 * **Packet Delivery Ratio (PDR):** Maintained an overall reliability of **over 94%** throughout high-speed sprints, preventing heavy packet drops.
 * **Network Latency:** A calculated delay spike (~45ms) occurs during Phase 2—an acceptable trade-off for continuous connectivity during route reconstruction.
 * **Data Throughput:** Stabilized cleanly between **210 - 256 Kbps**, perfectly sufficient for live telemetry, emergency text arrays, and GPS coordinates.
-*
+
